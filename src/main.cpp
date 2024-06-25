@@ -17,8 +17,8 @@ int main() {
 	sf::Sprite gameover_sprite(gameover_texture);
 
 	Menu menu("assets/back.jpg");
-	menu.addButton(500, 200, "assets/Button2.png");
-	menu.addButton(500, 400, "assets/Button3.png");
+	menu.addButton(500, 200, "assets/button2.png");
+	menu.addButton(500, 400, "assets/button3.png");
 
 	GameOverWindow gameover_window;
 	gameover_window.setPosition(300, 200);

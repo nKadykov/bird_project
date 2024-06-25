@@ -3,13 +3,13 @@
 Игра Bird, написанная на С++ с использованием библиотеки SFML.
 
 Меню
-![screenshot](screenshot/MENU.jpg)
+![screenshot](screenshot/menu.jpg)
 
 Игра
-![screenshot](screenshot/GAME.jpg)
+![screenshot](screenshot/game.jpg)
 
 Game Over
-![screenshot](screenshot/GAMEOVER.jpg)
+![screenshot](screenshot/gameover.jpg)
 
 # Управление
 

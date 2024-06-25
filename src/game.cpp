@@ -60,7 +60,7 @@ void Game::start(sf::RenderWindow& window) {
 	Barrier new_barrier2(-300.0 + barrier_sprite.getGlobalBounds().height + 300, barrier_sprite);
 	m_barrier_deque.push_back(new_barrier2);
 
-	m_font.loadFromFile("assets/ImpactRegular.ttf");
+	m_font.loadFromFile("assets/impactregular.ttf");
 	m_score_text.setString("0");
 	m_score_text.setPosition(600, 50);
 	m_score_text.setFont(m_font);
